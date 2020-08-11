@@ -1,0 +1,14 @@
+.navigation{
+    background-color: $Eerieblack;
+}
+.navigation a{
+    color: white;
+    &.active{
+        color: $ruddypink;
+    }
+}
+
+.navbar-brand img{
+    width: 78px;
+    
+}
